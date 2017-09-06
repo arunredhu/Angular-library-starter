@@ -2,7 +2,7 @@
 Library Starter or boilerplate for angular2/4 Projects 
 
 # Description
-This library starter is designed for the purpose for creating Angular Library which contain components/services/directive that can be shared across multiple applications.
+This library starter is designed for the purpose for creating Angular Library which contain `components`, `services`, `directive` etc. that can be used to share across multiple applications.
 
 # Usage
 Initially run `npm install` or  shorthand `npm i`.
